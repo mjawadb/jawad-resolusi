@@ -1,8 +1,10 @@
 RENCANA LIBURAN JAWAD
 
 - Ke Malang
-  * Vila
+  * Villa
+   ^ Villa Anime
+   ^ Villa Modern
   * Cafe Malang
 - Ke Jepang
-- Ke Batu
+ * Tokyo Center
 - Ke Bali 
