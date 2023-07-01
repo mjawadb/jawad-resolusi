@@ -1,8 +1,9 @@
 RENCANA LIBURAN JAWAD
 
 - Ke Malang
-  * Vila
-   ^ Vila Ghibli
+  * Villa
+   ^ Villa Ghibli
+   ^ Villa Modern
   * Cafe Malang
 - Ke Jepang
  * Ke Tokyo Center
